@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+}
+
+#training .items{
+    flex-direction: column;;
+}
+
+#training .items .item{
+    width: auto;
+}
+
+.projects .project {
+    flex-direction: column;
+}
