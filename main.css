@@ -9,6 +9,7 @@ a{
 }
 html{
     font-family:  "Comic Neue", sans-serif;
+    scroll-behavior : smooth;
 }
 
 /*Navbar Section*/
