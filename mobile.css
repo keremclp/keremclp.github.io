@@ -5,6 +5,10 @@
     overflow: hidden;
 }
 
+#navbar ul li a{
+    padding: 0.5rem;
+}
+
 #training .items{
     flex-direction: column;;
 }
